@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @apocalypsecracker
 - 👀 I’m interested in ...Ethical hacking
-- 🌱 I’m currently learning ...""
+- 🌱 I’m currently learning ..."Bug Hunting"
 - 💞️ I’m looking to collaborate on ...Hacking
-- 📫 How to reach me ...null
+- 📫 How to reach me ...
 
 <!---
 apocalypsecracker/apocalypsecracker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
