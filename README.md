@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Ethical hacking
 - 🌱 I’m currently learning ..."Bug Hunting"
 - 💞️ I’m looking to collaborate on ...Hacking
- My website:- www.n-emperor.xyz
+- My website:- www.n-emperor.xyz
 
 <!---
 apocalypsecracker/apocalypsecracker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
